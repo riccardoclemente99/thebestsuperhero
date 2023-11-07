@@ -3,17 +3,20 @@ font-size:25px;
 line-height:30px;
 background-color:#000080;
 color:white; 
-  font-style: italic;
-  font-family: "Times New Roman", serif;
-  text-align: center;
-
+  font-family: "Times New Roman";
+  text-align: left;
+border: 10px solid #000;
+}
+img {
+border: 10px solid #000;
 }
 
 h1 {
-	font-size:80px;
+	font-size:100px;
 	background-color:red;
 	color: white;
 	text-align:center;
+font-family:Bodoni MT;
 }
 
 h2 {
@@ -22,4 +25,5 @@ h2 {
 	color: white;
 	text-align:left;
 text-indent: 10%;
+font-family:Bodoni MT;
 }
